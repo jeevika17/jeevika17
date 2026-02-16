@@ -42,7 +42,7 @@
 ## 🌷 Connect With Me  
 💌 Email: [jeevika](jeevika416ss@example.com)  
 💼 LinkedIn: [jeevika](https://www.linkedin.com/in/jeevika-s-87185923a/)  
-✨ Portfolio: [coming soon](https://jeevika17.github.io/portfolio/) 🌙
+✨ Portfolio: [my-portfolio](https://jeevika17.github.io/portfolio/) 🌙
 
 ---
 
